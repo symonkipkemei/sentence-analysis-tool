@@ -68,18 +68,18 @@ To get this project up and running locally, you must already have python plus th
 ```
 - $ git clone `$ git clone https://github.com/symonkipkemei/sentence-analysis-tool.git`
 - $ git checkout develop
-- Run `python hangman.py`
+- Run `python main.py`
 ```
 
-- [Live Version](https://replit.com/@symonkipkemei/sentence-analysis-tool#hangman.py)
+- [Live Version](https://replit.com/@symonkipkemei/sentence-analysis-tool#main.py)
 
 
 <ILLUSTRATIONS>
 
 <h1 id="illus">Illustrations</h1>
 
-![The game interface](interface.PNG)
-
+![Example 1](Example_1.PNG)
+![Example 2](Example_2.PNG)
 
 <PROJECT-INFORMATION>
 
